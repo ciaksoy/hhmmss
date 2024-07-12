@@ -1,0 +1,29 @@
+{
+  "name": "@ciaksoy/hhmmss",
+  "version": "1.0.0",
+  "description": "Convert seconds to HH:MM:SS format",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciaksoy/hhmmss.git"
+  },
+  "keywords": [
+    "hhmmss",
+    "seconds",
+    "format"
+  ],
+  "author": "Cihan Aksoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciaksoy/hhmmss/issues"
+  },
+  "homepage": "https://github.com/ciaksoy/hhmmss#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.2"
+  }
+}
